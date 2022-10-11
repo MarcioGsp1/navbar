@@ -1,3 +1,3 @@
 # navbar
 
-<a href="navbar-m2hpmd9rj-marciogsp1.vercel.app" target="_blank">Live Site URL</a>
+<a href="https://navbar-ecxtjq7r7-marciogsp1.vercel.app/" target="_blank">Live Site URL</a>
